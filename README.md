@@ -1,10 +1,11 @@
+# 💫 About Me:
+Results-oriented, creative, and disciplined data professional with over 3 years of experience specializing in providing data-driven solutions to solve complex business problems. Possesses strong analytical skills and a solid understanding of data engineering principles, enabling the design and implementation of robust data pipelines and efficient data management strategies. Committed to driving data excellence and leveraging data engineering skills to enhance data analytics capabilities and aid optimization of business processes to deliver impactful results.<br>
+
 ### Hi there 👋
 - 🔭 I’m currently working on a Document Streaming project using Apache Spark, Kafka, Flink, MongoDB, and PowerBI
 - 📫 How to reach me: kingskonk@gmail.com
-- ⚡ Fun fact: If data were dollars, we'd all be billionaires! By 2025, we're looking at 175 zettabytes of information. That's more zeros than my bank account!" 💰📊😄
-
-# 💫 About Me:
-Results-oriented, creative, and disciplined data professional with over 3 years of experience specializing in providing data-driven solutions to solve complex business problems. Possesses strong analytical skills and a solid understanding of data engineering principles, enabling the design and implementation of robust data pipelines and efficient data management strategies. Committed to driving data excellence and leveraging data engineering skills to enhance data analytics capabilities and aid optimization of business processes to deliver impactful results.<br>
+- ⚡ Fun fact: If data were dollars, we'd all be billionaires! By 2025, we're looking at 175 zettabytes of information. 
+    That's more zeros than my bank account!" 💰📊😄
 
 
 # 🌐 Socials:
